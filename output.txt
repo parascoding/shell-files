@@ -1,0 +1,105 @@
+Result of 'whoami' -
+paras
+
+
+Users on this PC -
+paras
+
+
+Result of 'who'
+paras    :0           2022-07-24 18:39 (:0)
+
+
+Result of 'w' -
+ 22:03:20 up 14 days,  3:23,  1 user,  load average: 0.63, 0.62, 0.54
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+paras    :0       :0               24Jul22 ?xdm?   9:03m  0.03s /usr/lib/gdm3/
+
+
+Creating a directory 'assg' and moving to it
+Result of 'pwd' -
+/mnt/32b6b06a-25ad-4911-90a2-9c68b656b0e3/IIITK/5th Sem/OS P/Assignments/Assignment 1/shell_scripting/assg
+
+
+Created file0.txt
+Created file1.txt
+Created file2.txt
+Created file3.txt
+Created file4.txt
+
+
+Result of ls -
+file0.txt  file1.txt  file2.txt  file3.txt  file4.txt
+
+
+Result of 'ls -l' -
+total 0
+-rw-rw-r-- 1 paras paras 0 Aug  7 22:03 file0.txt
+-rw-rw-r-- 1 paras paras 0 Aug  7 22:03 file1.txt
+-rw-rw-r-- 1 paras paras 0 Aug  7 22:03 file2.txt
+-rw-rw-r-- 1 paras paras 0 Aug  7 22:03 file3.txt
+-rw-rw-r-- 1 paras paras 0 Aug  7 22:03 file4.txt
+
+
+Result of ls fil*.t*
+file0.txt  file1.txt  file2.txt  file3.txt  file4.txt
+Result of ls fi?4.t*
+file4.txt
+
+
+Result of 'ls -a' -
+.  ..  file0.txt  file1.txt  file2.txt	file3.txt  file4.txt
+
+
+Result of 'ls -R' is -
+../assg:
+file0.txt  file1.txt  file2.txt  file3.txt  file4.txt
+
+
+Contents of file0.txt - 
+Written in file 0
+Contents of file1.txt - 
+Written in file 1
+Contents of file2.txt - 
+Written in file 2
+Contents of file3.txt - 
+Written in file 3
+Contents of file4.txt - 
+Written in file 4
+
+
+Contents of file0.txt - 
+     1	Written in file 0
+Contents of file1.txt - 
+     1	Written in file 1
+Contents of file2.txt - 
+     1	Written in file 2
+Contents of file3.txt - 
+     1	Written in file 3
+Contents of file4.txt - 
+     1	Written in file 4
+
+
+Details of file0.txt - 
+ 1  4 18 file0.txt
+Details of file1.txt - 
+ 1  4 18 file1.txt
+Details of file2.txt - 
+ 1  4 18 file2.txt
+Details of file3.txt - 
+ 1  4 18 file3.txt
+Details of file4.txt - 
+ 1  4 18 file4.txt
+
+
+Made a copy of file0 with name file5
+
+
+file5 is renamed to file_new
+
+
+file_new have been removed
+
+
+'assg' have been deleted
+

@@ -128,7 +128,7 @@ echo $'\n'
 # Removing file_new
 rm file_new.txt
 echo "file_new have been removed"
-echo '\n'
+echo $'\n'
 
 # Going to parent directory
 cd ..
@@ -136,4 +136,4 @@ cd ..
 # Removing this assg directory
 rm -rf assg
 echo "'assg' have been deleted"
-echo '\n'
+echo $'\n'
